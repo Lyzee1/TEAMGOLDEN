@@ -2,6 +2,7 @@
 
 ## Introducción.
 Hola, mi nombre es **Ramiro Moreno** e hice un proyecto en base a mi equipo de Taekwondo. El objetivo es mostrar nuestros fundamentos para que nos conozcan más. A lo largo del proyecto, encontrarán diversas secciones que incluyen fotos y datos sobre los integrantes del equipo.
+Esta diseñado para varias resoluciones, para celulares, tabletas y pc´s
 
 ## Integrantes del Equipo.
 En esta sección se presentan los datos de los miembros de nuestro equipo, incluyendo su nombre y apellido, su edad y su peso para competencia. Cabe destacar que para los menores no se incluye el peso, ya que no se toma en cuenta.
